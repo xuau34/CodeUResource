@@ -11,7 +11,7 @@
 	* Feel safe - ask if allowing standard libraires
 4. Talk about your solution - **Using a case to demo your solution**
 	* If you have multiple solutions, it's great to ananlyse one by one.
-5. Ask if this solution is fine for coding right away
+5. Ask if there's case that you haven't considered in your solution. Then, ask if this solution is fine for coding right away
 6. Code your solution - **Better talking while Coding.**
 7. Run through your code by cases - **Talk out loud**
 8. If there's no case left, talk about the complexity.
